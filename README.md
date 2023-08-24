@@ -90,7 +90,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:cubos-academy/academy-template-readme-projects.git
+$ git clone git@github.com:helen-araujo/banco-rubi.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd banco-rubi
