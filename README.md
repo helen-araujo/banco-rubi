@@ -78,23 +78,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:cubos-academy/academy-template-readme-projects.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd academy-template-readme-projects
+$ cd banco-rubi
 
-# Vá para a pasta server
-$ cd server
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
-<p align="center">
-  <a href="https://github.com/cubos-academy/academy-template-readme-projects" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 
 ## 🛠 Tecnologias
@@ -109,20 +104,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 👨‍💻 Contribuidores
-
-Um praise para os cúbicos que contribuíram neste projeto 👏
-
-<table>
-  <tr>
-    <td align="center"><a href="https://cubos.academy/"><img style="border-radius: 50%;" src="https://ca.slack-edge.com/T02BJRAJH6G-U02BMJ98N68-5e47f31c2a79-512" width="100px;" alt=""/><br /><sub><b>Guido Cerqueira</b></sub></a><br /><a href="https://cubos.academy/" title="Cubos Academy">👨‍💻</a></td>
-    <td align="center"><a href="https://cubos.academy/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4E03AQG_0i4C04YeYg/profile-displayphoto-shrink_200_200/0/1677773908684?e=1688601600&v=beta&t=D1aefI0DMhoc7NZFvKUMn_LAIGEyEczyFaxUz0Auh6o" width="100px;" alt=""/><br /><sub><b>Daniel Lopes</b></sub></a><br /><a href="https://cubos.academy/" title="Cubos Academy">👨‍💻</a></td>
-    <td align="center"><a href="https://cubos.academy/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4E03AQG1l_n_4-Bhsg/profile-displayphoto-shrink_200_200/0/1516624005627?e=1688601600&v=beta&t=5nA_EezcbJ068eNefrWeccM-FBUUBnmKWQ7frFCxG9U" width="100px;" alt=""/><br /><sub><b>Guilherme Bernal</b></sub></a><br /><a href="https://cubos.academy/" title="Cubos Academy">👨‍💻</a></td>
-	 <td align="center"><a href="https://cubos.academy/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4E03AQGp3BsgWtthBg/profile-displayphoto-shrink_200_200/0/1643505110642?e=1688601600&v=beta&t=c_h3BkUr6POLelref_Nzc6AqzJpWTgENueNs9KqmvRM" width="100px;" alt=""/><br /><sub><b>Clara Battesini</b></sub></a><br /><a href="https://cubos.academy/" title="Cubos Academy">👩‍💻</a></td>
-    
-    
-  </tr>
-</table>
 
 ## 💪 Como contribuir para o projeto
 
@@ -134,18 +115,6 @@ Um praise para os cúbicos que contribuíram neste projeto 👏
 
 ---
 
-## 🧙‍♂️ Autor
 
-<a href="https://www.figma.com/@caiux">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQEDfulqSVXZqw/profile-displayphoto-shrink_200_200/0/1674667231041?e=1688601600&v=beta&t=C-f9fp3xJDwXm1u4c6eMwpWfVIyW0eCTDAKGIyNdRJA" width="100px;" alt=""/>
- <br />
- <sub><b>Caio Lopes</b></sub></a> <a href="https://www.figma.com/@caiux" title="Cubos Academy">✨</a>
- <br />
 
----
-
-## 📝 Licença
-
-<!-- Este projeto esta sobe a licença [MIT](./LICENSE). -->
-
-Feito com ❤️ por Caio Lopes 👋🏽 [Entre em contato!]
+Feito com ❤️ por Helen Araujo 👋🏽 
