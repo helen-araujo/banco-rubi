@@ -51,7 +51,17 @@ Para abrir uma conta no banco rubi, é necessário informar os seguintes dados: 
 
 ---
 
-## 🎨 Layout
+## 🎨 Prints das principais funcionalidades
+Arquivo Index -  ![image](https://github.com/helen-araujo/banco-rubi/assets/72050248/690a8dfe-bedb-473b-b721-f2c1a975332f)
+
+Arquivo Rotas - ![image](https://github.com/helen-araujo/banco-rubi/assets/72050248/54092b53-0167-4954-bcda-a7c089adcb42)
+
+-Validadar dados - ![image](https://github.com/helen-araujo/banco-rubi/assets/72050248/2c48aeab-f444-4125-9e38-5c03ec913634)
+
+
+Criar conta - função ![image](https://github.com/helen-araujo/banco-rubi/assets/72050248/9d02be0d-2aab-40f9-b670-8eea1021d8f9)
+Criar conta - tela insomnia ![image](https://github.com/helen-araujo/banco-rubi/assets/72050248/cd224d81-4c8e-41a9-950f-fba8ed6cb7b4)
+
 
 O layout da aplicação ainda não está disponível.
 
